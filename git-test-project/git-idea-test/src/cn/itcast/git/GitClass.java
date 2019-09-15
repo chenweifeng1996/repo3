@@ -12,7 +12,7 @@ public class GitClass {
 
     public static void test(){
         int i=100;
-
+        int a = 50;
         System.out.println(i);
     }
 }
